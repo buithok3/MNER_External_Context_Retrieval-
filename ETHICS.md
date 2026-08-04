@@ -38,4 +38,4 @@ Regarding the visual modality, the associated images were retrieved using Google
 The Twitter2015 and Twitter2017 datasets are not created by us. They are publicly available online and are used here only for research and benchmarking purposes. We do not claim ownership of these datasets, and users should refer to the original sources for their respective licenses and terms of use.
 
 
-In line with the aforementioned research-use conditions, the newly constructed multimodal datasets (MNER 2016, MNER 2018, and MNER 2021), along with the source code for our proposed model, are made publicly available to the research community for non-commercial research purposes only.
+In line with the aforementioned research-use conditions, the newly constructed multimodal datasets (NewsMNER, MNER 2016, MNER 2018), along with the source code for our proposed model, are made publicly available to the research community for non-commercial research purposes only.
