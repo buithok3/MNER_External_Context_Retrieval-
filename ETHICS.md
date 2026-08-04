@@ -2,14 +2,15 @@
 
 ## 1. Data Collection and Usage
 **- Data Source:**
-NewsMNER:
+
+**NewsMNER:**
 We collected Vietnamese online news articles published
 between 2016 and 2024 from five news websites: tienphong.vn, dantri.com.vn, anninhthudo.vn, nhandan.vn, and tuoitre.vn. They covered the news, law, business, and sports domains. For each article, we select the title or caption of the image that best reflects the content to use as the input sentence. Each article has multiple images, and we choose the image that best fits the chosen sentence.
 
-VLSP:
+**VLSP:**
 Textual modality — derived from three established Vietnamese NER corpora: VLSP-NER 2016, 2018. These consist of articles collected from Vietnamese electronic news websites (e.g., VnExpress, BaoMoi, ZingNews) covering diverse domains such as education, sports, science, and law.
 Visual modality — obtained by retrieving relevant images through the Google Lens API, using nouns, verbs, and adjectives extracted from the original texts. Because these images come from third-party web sources rather than VLSP, their provenance may correspond to external websites, and we do not claim ownership of them.
-Twitter2015 and Twitter2017:
+**Twitter2015 and Twitter2017:**
 Twitter2015 and Twitter2017 are existing multimodal NER benchmarks that are publicly available online. We use them as released, without modifying their content, for benchmarking and comparison.
 
 All data (text and images) is collected strictly for academic research and educational purposes in the field of Multimodal Named Entity Recognition (MNER).
