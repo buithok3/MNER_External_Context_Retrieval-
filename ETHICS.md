@@ -4,7 +4,7 @@
 **- Data Source:**
 
 **NewsMNER:**
-We collected Vietnamese online news articles published
+NewsMNER is a new dataset created by our team. We collected Vietnamese online news articles published
 between 2016 and 2024 from five news websites: tienphong.vn, dantri.com.vn, anninhthudo.vn, nhandan.vn, and tuoitre.vn. They covered the news, law, business, and sports domains. For each article, we select the title or caption of the image that best reflects the content to use as the input sentence. Each article has multiple images, and we choose the image that best fits the chosen sentence.
 
 **VLSP:**
